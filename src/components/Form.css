@@ -1,0 +1,52 @@
+@import url('https://fonts.googleapis.com/css2?family=EB+Garamond:ital,wght@0,400..800;1,400..800&display=swap');
+
+#f{
+    text-decoration: none;
+    color: #1285c8;
+    text-align: center;
+    text-transform: uppercase;
+    font-size: larger;
+    font-weight: bolder;
+    font-style: normal;
+    align-items: center;
+    margin-left: 30%;
+}
+h3{
+    color: #ffe45c;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    text-overflow: inherit;
+    text-shadow: none;
+}
+h4{
+    color: #ffe45c;
+    text-align: center;
+    text-decoration: none;
+    text-transform: capitalize;
+    text-overflow: inherit;
+    font-family: "EB Garamond", serif;
+    font-optical-sizing: auto;
+    text-shadow: none;
+}
+form{
+    text-align: center;
+}
+#b:hover{
+    background-color: aliceblue;
+    color: #1285c8;
+    text-decoration: none;
+}
+#b{
+
+    background-color:#2ecbe9;
+    color: #1285c8;
+    border-style: inherit;
+    border-radius: 10%;
+    font-size: medium;
+    font-family: "EB Garamond", serif;
+    font-weight: bolder;
+    text-decoration: none;
+}
